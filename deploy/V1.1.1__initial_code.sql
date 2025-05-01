@@ -1,4 +1,4 @@
-create schema if not exists hrdata;
+create schema if not exists emp.hrdata;
 
 --create table
 
